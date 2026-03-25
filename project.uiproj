@@ -1,0 +1,6 @@
+{
+  "Name": "Auto Filling Form",
+  "ProjectType": "Process",
+  "Description": "A project that auto fills a form",
+  "MainFile": "Main.xaml"
+}
